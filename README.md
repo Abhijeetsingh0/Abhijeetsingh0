@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.classicinformatics.com%2Fhubfs%2Fwebapps.png&imgrefurl=https%3A%2F%2Fwww.classicinformatics.com%2Fblog%2Fwhy-is-mern-stack-our-preferred-platform-for-startups-apps&tbnid=mDD1YPO7DVeSvM&vet=10CBMQMyhxahcKEwjo9oiG3p3wAhUAAAAAHQAAAAAQAg..i&docid=LcG15J9oaUlvBM&w=1024&h=680&q=mern%20stack&ved=0CBMQMyhxahcKEwjo9oiG3p3wAhUAAAAAHQAAAAAQAg">
+<hr/>
+FULL STACK WEB DEVELOPER ____⚡⚡⚡⚡⚡
+
 
