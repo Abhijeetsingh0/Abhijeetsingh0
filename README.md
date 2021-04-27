@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.classicinformatics.com%2Fhubfs%2Fwebapps.png&imgrefurl=https%3A%2F%2Fwww.classicinformatics.com%2Fblog%2Fwhy-is-mern-stack-our-preferred-platform-for-startups-apps&tbnid=mDD1YPO7DVeSvM&vet=10CBMQMyhxahcKEwjo9oiG3p3wAhUAAAAAHQAAAAAQAg..i&docid=LcG15J9oaUlvBM&w=1024&h=680&q=mern%20stack&ved=0CBMQMyhxahcKEwjo9oiG3p3wAhUAAAAAHQAAAAAQAg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUyFCq-I2sy2lWAyVg1OCzu-wrhkJe0BGxg&usqp=CAU">
 <hr/>
 FULL STACK WEB DEVELOPER ____⚡⚡⚡⚡⚡
 
