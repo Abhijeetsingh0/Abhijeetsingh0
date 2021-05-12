@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Bachelor of technology
-- 🌱 I’m currently learning ... Reat.js 
+- 🌱 I’m currently learning ... React.js 
 - 👯 I’m looking to collaborate on ... Reactjs 
 - 🤔 I’m looking for help with ... competitive programming
 - 💬 Ask me about ... Anything 
