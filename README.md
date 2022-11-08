@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... anish16253481@gmail.com / https://mybolgs.netlify.app/
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I have superpowers
+- ⚡ Fun fact: ... I can do back flip in pool :)
 -->
 
 
