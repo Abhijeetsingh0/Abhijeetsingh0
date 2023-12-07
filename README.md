@@ -3,13 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Bachelor of technology
-- 🌱 I’m currently learning ... React.js 
-- 👯 I’m looking to collaborate on ... Reactjs 
-- 🤔 I’m looking for help with ... competitive programming
-- 💬 Ask me about ... Anything 
+- 🔭 I’m currently working on ... NPCI
+- 🌱 I’m currently learning ... Kubernetes and Devops
+- 👯 I’m looking to collaborate on ... Kubernetes and Software development
+- 💬 Ask me about ... Devops and programming
 - 📫 How to reach me: ... anish16253481@gmail.com / https://mybolgs.netlify.app/
-- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I can do back flip in pool :)
 -->
 
